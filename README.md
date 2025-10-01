@@ -8,23 +8,23 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nocriteriaforaevaaaaa" alt="nocriteriaforaevaaaaa" /></a>
 </p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
-
-  <div>
-    - 🌱 I’m currently learning **App Development using Swift and AI/ML as well.**<br>
-    - 👯 I’m looking to collaborate on **Data Science related projects.**<br>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    - 🌱 I’m currently learning <b>App Development using Swift and AI/ML</b><br>
+    - 👯 I’m looking to collaborate on <b>Data Science related projects</b><br>
     - 👨‍💻 Take a look at my portfolio and skills at <a href="https://aevaacharya.vercel.app/">https://aevaacharya.vercel.app/</a><br>
-    - 💬 Ask me about **GitHub, Python, SQL, and innovative projects**<br>
-    - 📫 How to reach me **aevaacharya9@gmail.com**
+    - 💬 Ask me about <b>GitHub, Python, SQL, and innovative projects</b><br>
+    - 📫 How to reach me <a href="mailto:aevaacharya9@gmail.com">aevaacharya9@gmail.com</a>
   </div>
 
-  <div style="background-color: #ffffff; padding: 5px; border-radius: 10px;">
+  <div style="flex-shrink: 0; background-color: #ffffff; padding: 5px; border-radius: 10px;">
     <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" 
          alt="Coding" 
          style="width: 200px; border-radius: 10px;"/>
   </div>
 
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
