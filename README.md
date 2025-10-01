@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nocriteriaforaevaaaaa" alt="nocriteriaforaevaaaaa" /></a> </p>
 
-- 🌱 I’m currently learning **App Development using Swift and AI/ML as well**
+- 🌱 I’m currently learning **App Development using Swift and AI/ML as well.**
 
-- 👯 I’m looking to collaborate on **Data Science related projects**
+- 👯 I’m looking to collaborate on **Data Science related projects.**
 
-- 👨‍💻 All of my projects are available at [https://aevaacharya.vercel.app/](https://aevaacharya.vercel.app/)
+- 👨‍💻 Take a look at my portfolio and skills at [https://aevaacharya.vercel.app/](https://aevaacharya.vercel.app/)
 
 - 💬 Ask me about **GitHub,Python,SQL and innovative projects**
 
