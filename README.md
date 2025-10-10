@@ -20,15 +20,14 @@
 - 📫 How to reach me: <a href="mailto:aevaacharya9@gmail.com">aevaacharya9@gmail.com</a>
 
     </td>
-
-    <!-- Right column: GitHub stats -->
+    
     <td valign="top" align="center" width="45%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nocriteriaforaevaaaaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" /><br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=nocriteriaforaevaaaaa&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
 
-  <!-- Second row: GIF centered -->
+
   <tr>
     <td colspan="2" align="center">
       <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" width="220" style="background:white; padding:5px; border-radius:10px;"/>
