@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aeva Acharya</h1>
+<h1 align="center">Hi, I'm Aeva Acharya</h1>
 <h3 align="center">Electronics, Communication and Information Engineering Student | Data Science, AI/ML & Software Development Enthusiast</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nocriteriaforaevaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="nocriteriaforaevaaaaa" />
