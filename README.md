@@ -5,7 +5,9 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nocriteriaforaevaaaaa" alt="nocriteriaforaevaaaaa" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nocriteriaforaevaaaaa" alt="nocriteriaforaevaaaaa" />
+  </a>
 </p>
 
 <table>
@@ -21,12 +23,11 @@
 
     </td>
     
+    <!-- Right column: GitHub streaks -->
     <td valign="top" align="center" width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nocriteriaforaevaaaaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" /><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=nocriteriaforaevaaaaa&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nocriteriaforaevaaaaa&" alt="GitHub Streak" />
     </td>
   </tr>
-
 
   <tr>
     <td colspan="2" align="center">
@@ -34,7 +35,6 @@
     </td>
   </tr>
 </table>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
