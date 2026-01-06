@@ -20,7 +20,7 @@
     <!-- Left column: Intro and bullet points -->
     <td valign="top" width="55%">
 
-- 🌱 Currently learning **App Development using Swift and AI/ML(side by side)**  
+- 🌱 Currently learning **AI/ML**  
 - 👯 Open to collaborate on **Data Science & ML projects**  
 - 💻 Check out my portfolio: <a href="https://aevaacharya.vercel.app/" target="_blank">aevaacharya.vercel.app</a>  
 - 💬 Ask me about **GitHub, Python, SQL, or innovative project ideas**  
