@@ -22,7 +22,7 @@
 
 - 🌱 Currently learning **AI/ML**  
 - 👯 Open to collaborate on **Data Science & ML projects**  
-- 💻 Check out my portfolio: <a href="https://aevaacharya.vercel.app/" target="_blank">aevaacharya.vercel.app</a>  
+- 💻 Check out my portfolio: <a href="www.aevaacharya.com" </a>  
 - 💬 Ask me about **GitHub, Python, SQL, or innovative project ideas**  
 - 📫 Reach me at: <a href="mailto:aevaacharya9@gmail.com">aevaacharya9@gmail.com</a>
 
