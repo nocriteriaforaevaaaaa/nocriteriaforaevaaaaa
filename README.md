@@ -20,7 +20,7 @@
     <!-- Left column: Intro and bullet points -->
     <td valign="top" width="55%">
 
-- 🌱 Currently learning **AI/ML**  
+- 🌱 Currently working on **AI/ML**  
 - 👯 Open to collaborate on **Data Science & ML projects**  
 - 💻 Check out my portfolio: <a href="www.aevaacharya.com" </a>  
 - 💬 Ask me about **GitHub, Python, SQL, or innovative project ideas**  
