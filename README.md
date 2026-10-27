@@ -21,9 +21,8 @@
     <td valign="top" width="55%">
 
 - 🌱 Currently working on **AI/ML**  
-- 👯 Open to collaborate on **Data Science & ML projects**  
-- 💻 Check out my portfolio here: <a href="https://www.aevaacharya.com">www.aevaacharya.com</a>
-- 💬 Ask me about **GitHub, Python, SQL, or innovative project ideas**  
+- 👯 Open to collaborate on **Data Science,Network&Security, & ML projects**  
+- 💻 Check out my portfolio here: <a href="https://www.aevaacharya.com">www.aevaacharya.com</a> 
 - 📫 Reach me at: <a href="mailto:aevaacharya9@gmail.com">aevaacharya9@gmail.com</a>
 
     </td>
