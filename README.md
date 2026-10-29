@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#0077b6;">Aeva Acharya</span></h1>
-<h3 align="center">Electronics, Communication & Information Engineering Student | Data Science, AI/ML & Software Development Enthusiast</h3>
+<h3 align="center">Electronics, Communication & Information Engineering Student | Data Science, Network, AI/ML & Software Development Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nocriteriaforaevaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
